@@ -1,0 +1,8 @@
+{
+  "port" : "8888",
+  "default_redirect" : "workbench.qr1hi.arvadosapi.com",
+  "host" : {
+    "su92l" : "workbench.su92l.arvadosapi.com",
+    "qr1hi" : "workbench.qr1hi.arvadosapi.com"
+  }
+}
